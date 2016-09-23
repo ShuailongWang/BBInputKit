@@ -1,4 +1,6 @@
-# BBInputKit
+
+![image](https://raw.githubusercontent.com/bawangxx/BBInputKit/master/image/logo.png)
+---
 更新头像、昵称、用户名，共两套框架
 
 效果图：
