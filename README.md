@@ -1,9 +1,8 @@
 
 ![image](https://raw.githubusercontent.com/bawangxx/BBInputKit/master/image/logo.png)
 ---
-更新头像、昵称、用户名，共两套框架
+更新头像、昵称、用户名，共两套框架(仿《今日头条》效果)
 
-效果图：
 效果图：
 
 ![image](https://raw.githubusercontent.com/bawangxx/BBInputKit/master/image/BBInputKit.gif)
